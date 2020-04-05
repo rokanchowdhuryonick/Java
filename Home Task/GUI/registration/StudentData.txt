@@ -1,0 +1,6 @@
+Name : Md. Rokan Chowdhury
+Surname : Onick
+Email Address : rokanchowdhury@gmail.com
+Date Of Birth : 1 Jan 1995
+Gender : Male
+Department : Computer Science and Engineering
